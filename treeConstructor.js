@@ -16,4 +16,4 @@ function TreeConstructor(strArr) {
   console.log(TreeConstructor(["(1,2)", "(3,2)", "(2,12)", "(5,2)"]));
 
 
-  //module.exports = treeConstructor
+  module.exports = treeConstructor
