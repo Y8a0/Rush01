@@ -17,4 +17,4 @@ function displayCaracter(n){
 displayCaracter(10);
 
 
-//module.exports = displayCaracter;
+module.exports = displayCaracter;
